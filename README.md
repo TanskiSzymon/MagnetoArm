@@ -1,14 +1,15 @@
 # MagnetoArm
 Modular matgnetic robot with infinite motion.
 
+Watch the video to see the simulation.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=IC0GgHc48po">
      <img src="https://img.youtube.com/vi/IC0GgHc48po/0.jpg" alt="Watch the video.">
   </a>
 </p>
-Watch the video to see the MQTT remote in action
 
 New model:
+
 ![Screenshot_8](https://github.com/TanskiSzymon/MagnetoArm/assets/108231030/2132c81a-b790-47f4-8d4f-03cede7a38b4)
 ![Screenshot_1](https://github.com/TanskiSzymon/MagnetoArm/assets/108231030/acbd01f1-0d50-45d7-84e5-bc8cbc435212)
 ![Screenshot_4](https://github.com/TanskiSzymon/MagnetoArm/assets/108231030/902a04bc-23ae-4634-b562-5e95e88ce056)
