@@ -10,6 +10,13 @@ Watch the video below for a simulation of the MagnetoArm in action:
   </a>
 </p>
 
+Test:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7gODg23_v9I">
+     <img src="https://img.youtube.com/vi/7gODg23_v9I/0.jpg" alt="Watch the video.">
+  </a>
+</p>
+
 Explore our designs and development phases through the images below:
 
 **New model:**
